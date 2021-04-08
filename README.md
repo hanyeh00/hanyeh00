@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Hanieh
+#### I am interested in Artificial Intelligence
+![I am interested in Artificial Intelligence](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**hanyeh00/hanyeh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, I have some experience in deep learning, machine learning and optimization, also when I start to write a code I feel that I am in my mutable world.
 
-Here are some ideas to get you started:
+Skills: python / wordpress/C# / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
