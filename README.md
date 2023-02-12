@@ -2,7 +2,6 @@
 #### I am interested in Artificial Intelligence, Machine learning
 ######![I am interested in Artificial Intelligence](https://uupload.ir/files/qhnu_img_20190330_131957814-min.jpg)
       
-       *              this picture from Abgineh Museum(it is located in Iran)
 #### I made this account for fun and storing my exercise, I have some experience in deep learning, machine learning and optimization,
 #### also when I start to write a code I feel that I am in my mutable world.
 
